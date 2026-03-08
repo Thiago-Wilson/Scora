@@ -25,7 +25,11 @@ The compiled executable can be downloaded from the Releases section:
 
 👉 https://github.com/Thiago-Wilson/Scora/releases
 ______________________________________________________________________________________________________________________
+## Interface
 
+<p align="center">
+  <img src="docs/scora_interface.png" width="800">
+</p>
 Main Features
 
 Protein–Ligand Interaction Analysis
