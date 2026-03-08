@@ -9,6 +9,7 @@ ________________________________________________________________________________
 Platform
 
 Windows standalone executable
+
 No Python installation required
 
 Designed for researchers in:
@@ -66,6 +67,13 @@ Ligand prioritization
 Structure–activity relationship (SAR) studies
 Binding mode comparison
 ________________________________________________________________________________________________________________________
+Quick Start
+
+1. Download the latest release
+3. Run Scora.exe
+3. Select the docking results directory
+4. Start the analysis
+_________________________________________________________________________________________________________________________
 Future Development
 
 Future versions of Scora aim to expand support for:
@@ -87,5 +95,9 @@ ________________________________________________________________________________
 Citation
 
 If you use Scora in your research, please consider citing the project or referencing this repository. 
+
+Thiago Wilson (2026).
+Scora: Structural Characterization of Receptor–Ligand Assemblies.
+https://github.com/Thiago-Wilson/Scora
 
 Costa, T. et al. Scora: an Integrated Tool for Automated Post-Docking Analysis and Multi-Criteria Ligand Prioritization. 2026
