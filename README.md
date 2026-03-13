@@ -5,7 +5,7 @@ Scora is a computational tool designed to support structure-based drug discovery
 The software integrates interaction profiling, ligand structural descriptors, and docking score extraction into a unified workflow, enabling researchers to systematically analyze binding modes and evaluate docking results.
 
 Scora was developed to simplify post-docking analysis and facilitate the extraction of structural information from molecular complexes.
-________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________
 Platform
 
 Windows standalone executable
@@ -18,12 +18,14 @@ computational chemistry
 structural biology
 medicinal chemistry
 drug discovery
-
-Download
+______________________________________________________________________________________________________________________
+DOWNLOAD
 
 The compiled executable can be downloaded from the Releases section:
 
 👉 https://github.com/Thiago-Wilson/Scora/releases
+
+OBS: The program may take up to 1 minute to open due to file preparation. This is expected for portable executables.
 ______________________________________________________________________________________________________________________
 ## Interface
 
@@ -44,7 +46,7 @@ Salt bridges
 Additional interaction geometries relevant for ligand binding
 
 Interaction data are exported in structured formats suitable for downstream statistical or cheminformatics analysis.
-_______________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________
 Ligand Structural Descriptors
 
 Scora computes multiple descriptors frequently used in medicinal chemistry and cheminformatics, including:
