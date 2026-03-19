@@ -1,3 +1,11 @@
+DOWNLOAD
+
+The compiled executable can be downloaded from the Releases section:
+
+👉 https://github.com/Thiago-Wilson/Scora/releases
+
+OBS: The program may take up to 1 minute to open due to file preparation. This is expected for portable executables.
+______________________________________________________________________________________________________________________
 # Scora
 
 Scora is a computational tool designed to support structure-based drug discovery through automated analysis of protein–ligand complexes.
@@ -18,14 +26,6 @@ computational chemistry
 structural biology
 medicinal chemistry
 drug discovery
-______________________________________________________________________________________________________________________
-DOWNLOAD
-
-The compiled executable can be downloaded from the Releases section:
-
-👉 https://github.com/Thiago-Wilson/Scora/releases
-
-OBS: The program may take up to 1 minute to open due to file preparation. This is expected for portable executables.
 ______________________________________________________________________________________________________________________
 ## Interface
 
