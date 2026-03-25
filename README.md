@@ -52,8 +52,11 @@ Ligand Structural Descriptors
 Scora computes multiple descriptors frequently used in medicinal chemistry and cheminformatics, including:
 
 Molecular shape descriptors
+
 Surface and geometric properties
+
 Structural complexity metrics
+
 Additional physicochemical parameters relevant for ligand evaluation
 
 These descriptors allow rapid comparison of ligands and support compound prioritization workflows.
