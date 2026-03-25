@@ -38,11 +38,11 @@ Protein–Ligand Interaction Analysis
 
 Scora automatically detects and characterizes several classes of non-covalent interactions commonly observed in biomolecular complexes:
 
-Hydrogen bonds
-Hydrophobic interactions
-π–π stacking
-π–cation interactions
-Salt bridges
+Hydrogen bonds,
+Hydrophobic interactions,
+π–π stacking,
+π–cation interactions,
+Salt bridges,
 Additional interaction geometries relevant for ligand binding
 
 Interaction data are exported in structured formats suitable for downstream statistical or cheminformatics analysis.
