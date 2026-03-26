@@ -95,6 +95,10 @@ ________________________________________________________________________________
 Contributing
 
 Suggestions, feature requests, and bug reports are welcome.
+
+The Scora is completely free, but if you want and are able, please help maintain this project and fund new ones.
+
+https://www.paypal.com/donate/?hosted_button_id=DEJQPDZNZVGCC
 ________________________________________________________________________________________________________________________
 License
 
