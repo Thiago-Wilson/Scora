@@ -4,7 +4,9 @@ The compiled executable can be downloaded from the Releases section:
 
 👉 https://github.com/Thiago-Wilson/Scora/releases
 
-OBS: The program may take up to 1 minute to open due to file preparation. This is expected for portable executables.
+OBS1: WINDOWS MAY BLOCK THE PROGRAM ON NEW COMPUTERS. THIS IS EXPECTED DUE TO THE LACK OF A DIGITAL CERTIFICATE. YOU MAY NEED TO GRANT PERMISSIONS AND DISABLE SYSTEM BLOCKS.
+
+OBS2: THE PROGRAM MAY TAKE UP TO 1 MINUTE TO OPEN DUE TO FILE PREPARATION. THIS IS EXPECTED FOR PORTABLE EXECUTABLES.
 ______________________________________________________________________________________________________________________
 # Scora
 
